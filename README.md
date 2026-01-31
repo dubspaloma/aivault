@@ -12,7 +12,7 @@ Email: **walter@hmshost.top**
 ## Quick help / FAQ
 
 ### How do I add something to AI Vault?
-Use the iOS **Share Sheet** from your browser or another app and choose **AI Vault**. You can also add items inside the app.
+Use the iOS **Share Sheet** from your browser or another app and choose Share -> **AI Vault**. You can also add items inside the app.
 
 ### Where do ads appear?
 Ads may appear in the Library view.

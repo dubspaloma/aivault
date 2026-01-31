@@ -28,7 +28,9 @@ If you purchased Remove Ads on another device, use **Restore Purchases** in Sett
 Try force‑quitting and reopening the app. If it still happens, contact support with what you shared and the approximate time.
 
 ## Privacy
-AI Vault stores your entries on-device. If you have questions about data collection, contact support.
+AI Vault stores your entries on-device.
+
+## Removing items.  Long press and delete will show up. 
 
 ## App identifiers (for troubleshooting)
 - Bundle ID: `com.dubs.aivault`
